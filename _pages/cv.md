@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click to view my resume] (http://tongqiu-jia.github.io/files/resume.pdf) (Updated 02/2020)
+[Click to view my resume](http://tongqiu-jia.github.io/files/resume.pdf) (Updated 02/2020)
 
 Education
 ======
