@@ -13,5 +13,6 @@ I am currently working as an applications programmer with Professor [Trey Ideker
 My research interests lie in the intersection of data science and healthcare. I am interested in developing machine learning methods to answer questions on genomics, population health and clinical decision making.
 
 # News
-- Feb 6, 2020. Manuscript “[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](https://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)” is accepted for publication in the <i>Annals of Human Genetics</i>.
+- March 23, 2020. I will be joining the MPH program in Epidemiology at University of Washington this September. Go Huskies!
+- February 6, 2020. Manuscript “[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](https://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)” is accepted for publication in the <i>Annals of Human Genetics</i>.
 - October 1, 2019. I am applying for graduate programs in bioinformatics and public health for Fall 2020!
