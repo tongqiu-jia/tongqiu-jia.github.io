@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](http://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)</b> <br>
 <b>Tongqiu Jia</b>, Brenton Munson, Hana Lango Allen, Trey Ideker, and Amit R. Majithia.
-<i>bioRxiv</i>. <b>2019</b>.
+<i>Annals of human genetics</i>. <b>2020</b>.
 
 <b>[A Fast and Flexible Framework for Network-Assisted Genomic Association](http://tongqiu-jia.github.io/publication/NAGA)</b> <br>
 Daniel E Carlin, Samson H Fong, Yue Qin, <b>Tongqiu Jia</b>, Justin K Huang, Bokan Bao, Chao Zhang, Trey Ideker.
