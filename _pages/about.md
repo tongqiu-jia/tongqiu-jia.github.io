@@ -14,5 +14,5 @@ My research interests lie in the intersection of data science and healthcare. I 
 
 # News
 - March 31, 2020. Manuscript “[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](https://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)” is now [online]( https://doi.org/10.1111/ahg.12383) on <i>Annals of Human Genetics</i>!
-- March 23, 2020. I will be joining the MPH program in Epidemiology at University of Washington this September. Go Huskies!
+- March 23, 2020. I will be joining the MPH program in Epidemiology at University of Washington this September.
 - February 6, 2020. Manuscript “[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](https://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)” is accepted for publication in the <i>Annals of Human Genetics</i>.
