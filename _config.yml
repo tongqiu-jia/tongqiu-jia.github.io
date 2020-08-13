@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tonqiu (Iris) Jia"
   avatar           : "Iris_profile_linkedin.png"
-  bio              : "Application programmer, School of Medicine, UC San Diego Health"
-  location         : "La Jolla, California"
+  bio              : "MPH student in Epidemiology, University of Washington"
+  location         : "Seattle, Washington"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tongqiu+Jia"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_2sCLXkAAAAJ"
-  email            : "t1jia@ucsd.edu"
+  email            : "t1jia@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
