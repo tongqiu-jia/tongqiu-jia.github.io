@@ -3,7 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
+<b>[Assessing the associations between known genetic variants and substance use in people with HIV in the United States](https://doi.org/10.1371/journal.pone.0292068)</b><br>
+Cameron B Haas, Kristina M Jordahl, Robin M Nance, Bridget M Whitney, Lu Wang, Joseph AC Delaney, Stephanie Ruderman, <b>Tongqiu Jia</b>, Wm Christopher Mathews, Michael S Saag, Sulggi A Lee, Sonia Napravnik, Jeffrey M Jacobson, Geetanjali Chander, Elizabeth M McCall, Richard D Moore, Kenneth H Mayer, Shubhabrata Mukherjee, Won Jun Lee, Paul K Crane, Heidi Crane, Inga Peter, Sara Lindström.
+
+<b>[Genome-wide association studies of human and rat BMI converge on synapse, epigenome, and hormone signaling networks](http://tongqiu-jia.github.io/publication/human_rate_BMI_network)</b><br>
+Sarah N Wright, Brittany S Leger, Sara Brin Rosenthal, Sophie N Liu, <b>Tongqiu Jia</b>, Apurva S Chitre, Oksana Polesskaya, Katie Holl, Jianjun Gao, Riyan Cheng, Angel Garcia Martinez, Anthony George, Alexander F Gileta, Wenyan Han, Alesa H Netzley, Christopher P King, Alexander Lamparelli, Connor Martin, Celine L St Pierre, Tengfei Wang, Hannah Bimschleger, Jerry Richards, Keita Ishiwari, Hao Chen, Shelly B Flagel, Paul Meyer, Terry E Robinson, Leah C Solberg Woods, Jason F Kreisberg, Trey Ideker, Abraham A Palmer.
+<i>Cell reports</i>. <b>2023</b>.
+
 <b>[Thousands of missing variants in the UK Biobank are recoverable by genome realignment](http://tongqiu-jia.github.io/publication/ukb-exome-fe-errors)</b> <br>
 <b>Tongqiu Jia</b>, Brenton Munson, Hana Lango Allen, Trey Ideker, and Amit R. Majithia.
 <i>Annals of human genetics</i>. <b>2020</b>.

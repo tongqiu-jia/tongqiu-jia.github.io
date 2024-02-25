@@ -2,7 +2,6 @@
 title: "Fast near-whole–brain imaging in adult Drosophila during responses to stimuli and behavior"
 collection: publications
 permalink: /publication/fly
-citation: 'Aimon, Sophie, Takeo Katsuki, Tongqiu Jia, Logan Grosenick, Michael Broxton, Karl Deisseroth, Terrence J. Sejnowski, and Ralph J. Greenspan. "Fast near-whole–brain imaging in adult Drosophila during responses to stimuli and behavior." PLoS biology 17, no. 2 (2019): e2006732.'
 ---
 [PDF](https://tongqiu-jiagithub.io/files/fly.pdf)
 ## Abstract
