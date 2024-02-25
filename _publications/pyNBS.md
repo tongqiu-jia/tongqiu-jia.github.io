@@ -2,7 +2,6 @@
 title: "pyNBS: a Python implementation for network-based stratification of tumor mutations"
 collection: publications
 permalink: /publication/pyNBS
-citation: 'Huang, Justin K., Tongqiu Jia, Daniel E. Carlin, and Trey Ideker. "pyNBS: a Python implementation for network-based stratification of tumor mutations." Bioinformatics 34, no. 16 (2018): 2859-2861.'
 ---
 [PDF](https://tongqiu-jiagithub.io/files/pyNBS.pdf)
 

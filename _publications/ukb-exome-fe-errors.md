@@ -2,7 +2,6 @@
 title: "Thousands of missing variants in the UK Biobank are recoverable by genome realignment"
 collection: publications
 permalink: /publication/ukb-exome-fe-errors
-citation: 'Tongqiu Jia, Brenton Munson, Hana Lango Allen, Trey Ideker, and Amit R. Majithia. Thousands of missing variants in the UK Biobank are recoverable by genome realignment." Annals of human genetics (2020) doi.org/10.1111/ahg.12383.'
 ---
 [PDF](https://tongqiu-jia.github.io/files/ukb-exome-fe-errors.pdf)
 

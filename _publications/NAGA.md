@@ -2,7 +2,6 @@
 title: "A Fast and Flexible Framework for Network-Assisted Genomic Association"
 collection: publications
 permalink: /publication/NAGA
-citation: 'Carlin, Daniel E., Samson H. Fong, Yue Qin, Tongqiu Jia, Justin K. Huang, Bokan Bao, Chao Zhang, and Trey Ideker. "A Fast and Flexible Framework for Network-Assisted Genomic Association." iScience 16 (2019): 155-161.'
 ---
 [PDF](http://tongqiu-jia.github.io/files/NAGA.pdf)
 ## Abstract

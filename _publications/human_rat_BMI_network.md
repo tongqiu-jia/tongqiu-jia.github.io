@@ -1,10 +1,9 @@
 ---
-title: "Thousands of missing variants in the UK Biobank are recoverable by genome realignment"
+title: "Genome-wide association studies of human and rat BMI converge on synapse, epigenome, and hormone signaling networks"
 collection: publications
-permalink: /publication/ukb-exome-fe-errors
-citation: 'Tongqiu Jia, Brenton Munson, Hana Lango Allen, Trey Ideker, and Amit R. Majithia. Thousands of missing variants in the UK Biobank are recoverable by genome realignment." Annals of human genetics (2020) doi.org/10.1111/ahg.12383.'
+permalink: /publication/human_rat_BMI_network
 ---
-[PDF](https://tongqiu-jia.github.io/files/ukb-exome-fe-errors.pdf)
+[PDF](https://tongqiu-jia.github.io/files/human_rat_BMI_network.pdf)
 
 ## Abstract
- The UK Biobank is an unprecedented resource for human disease research. In March 2019, 49,997 exomes were made publicly available to investigators. Here we note that thousands of variant calls are unexpectedly absent from the current dataset, with 641 genes showing zero variation. We show that the reason for this was an erroneous read alignment to the GRCh38 reference. The missing variants can be recovered by modifying read alignment parameters to correctly handle the expanded set of contigs available in the human genome reference. Given the size and complexity of such population scale datasets, we propose a simple heuristic that can uncover systematic errors using summary data accessible to most investigators.
+ A vexing observation in genome-wide association studies (GWASs) is that parallel analyses in different species may not identify orthologous genes. Here, we demonstrate that cross-species translation of GWASs can be greatly improved by an analysis of co-localization within molecular networks. Using body mass index (BMI) as an example, we show that the genes associated with BMI in humans lack significant agreement with those identified in rats. However, the networks interconnecting these genes show substantial overlap, highlighting common mechanisms including synaptic signaling, epigenetic modification, and hormonal regulation. Genetic perturbations within these networks cause abnormal BMI phenotypes in mice, too, supporting their broad conservation across mammals. Other mechanisms appear species specific, including carbohydrate biosynthesis (humans) and glycerolipid metabolism (rodents). Finally, network co-localization also identifies cross-species convergence for height/body length. This study advances a general paradigm for determining whether and how phenotypes measured in model species recapitulate human biology.
