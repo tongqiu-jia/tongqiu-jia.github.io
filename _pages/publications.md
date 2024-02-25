@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>[Assessing the associations between known genetic variants and substance use in people with HIV in the United States](https://doi.org/10.1371/journal.pone.0292068)</b><br>
+<b>[Assessing the associations between known genetic variants and substance use in people with HIV in the United States](http://tongqiu-jia.github.io/publication/cnics_substance)</b><br>
 Cameron B Haas, Kristina M Jordahl, Robin M Nance, Bridget M Whitney, Lu Wang, Joseph AC Delaney, Stephanie Ruderman, <b>Tongqiu Jia</b>, Wm Christopher Mathews, Michael S Saag, Sulggi A Lee, Sonia Napravnik, Jeffrey M Jacobson, Geetanjali Chander, Elizabeth M McCall, Richard D Moore, Kenneth H Mayer, Shubhabrata Mukherjee, Won Jun Lee, Paul K Crane, Heidi Crane, Inga Peter, Sara Lindström.
 <i>Plos one</i>. <b>2023</b>.
 
